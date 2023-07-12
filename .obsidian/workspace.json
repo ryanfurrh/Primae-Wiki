@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "588a942130262cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c5a25b7ed7a876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f9d4032577b2d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a3cb2282495f33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux/Divergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6412f5414ec3585d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux/Flux Manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3761f6c823ee801",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux/Flux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faa94d845387e334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artifacts/Artifact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df7efa5c2d06bb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux/Phenomena/Loss of Soul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d2e1833140c5aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flux/Convergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "3987d53cc199145d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f113aea3ae00507d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27fd920be900d444",
+    "type": "split",
+    "children": [
+      {
+        "id": "88bf6e94be970552",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d15823165050cd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac51674aa9a59ed1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "112a1efc3abd5408",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cef4cb4061fef286",
+    "type": "split",
+    "children": [
+      {
+        "id": "74dfaf7fd416c9bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4471e845134b70af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c670b5e0a7045e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea408a9e02d28c60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64a160d9229ec43c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "f113aea3ae00507d",
+  "lastOpenFiles": [
+    "Flux/Phenomena/Loss of Soul.md",
+    "Animus.md",
+    "Flux/Divergence.md",
+    "Artifacts/Artifact.md",
+    "Flux/Convergence.md",
+    "Artifacts/Artifact Display/Fracture Point.md",
+    "Artifacts/Artifact Display/Waveform Display.md",
+    "Artifacts/Resonant Frequency Emitter.md",
+    "Pneuma.md",
+    "Flux/Flux.md",
+    "Flux/Flux Manipulation.md",
+    "Artifacts/Artifact Display/Node Map.md",
+    "Artifacts/Artifact Display/Artifact Display.md",
+    "Artifacts/Visualizer.md",
+    "Flux/Phenomena/Phenomena.md",
+    "Artifacts/Artifact Display",
+    "Flux/Phenomena",
+    "Artifacts",
+    "Structure.canvas",
+    "Flux/Untitled.canvas",
+    "Untitled.canvas",
+    "2023-07-11.md",
+    "Artifacts/Mechanical/Sense Controller.md",
+    "Artifacts/Mechanical/Visualizer.md",
+    "Artifacts/Mechanical/Resonance Frequency Emitter.md",
+    "Artifacts/Untitled.canvas",
+    "Flux",
+    "Artifacts",
+    "Artifacts/Mechanical"
+  ]
+}
